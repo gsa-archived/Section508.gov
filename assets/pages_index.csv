@@ -1,0 +1,7 @@
+---
+---
+Page_Title,File_Location,URL,Menu_Topic
+{% for page in site.pages %}"{{ page.title }}",{{ page.path }},{{ site.baseurl }}{{ page.permalink }},{{ page.type }}
+{% endfor %}
+{% for page in site.posts %}"{{ page.title }}",{{ page.path }},{{ site.baseurl }}{{ page.permalink }},{{ page.type }}
+{% endfor %}
