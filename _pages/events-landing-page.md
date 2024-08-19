@@ -7,7 +7,7 @@ title: Events
 topic: "Training (train)"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Content Creators (creator)"
 - "Designer (design)"
 resource-type: "Training"

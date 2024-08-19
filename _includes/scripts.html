@@ -25,6 +25,14 @@
 <script src="{{ site.baseurl }}/assets/js/app.js?{{ site.time | date: '%s%N' }}"></script>
 
 {% comment %}
+Add isotope scripts for content library
+{% endcomment %}
+{% if page.script-isotope %}
+<script src="{{site.baseurl}}/assets/js/isotope.pkgd.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/isotope.settings.js"></script>
+{% endif %}
+
+{% comment %}
 - The script below hides the alert banner for time-sensitive alerts.
 - Comment out code when not in use.
 {% endcomment %}

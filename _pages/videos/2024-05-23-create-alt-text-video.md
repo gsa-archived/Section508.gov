@@ -9,7 +9,7 @@ updated:
 topic: Training (train)
 sub-topic: Graphics Specific (image descriptions)
 audience:
-- federal employee (fedemp)
+- Federal Employee (fedemp)
 - 508 Program Manager (508pm)
 - Public (public)
 - Developers and Testers (dev-test)

@@ -9,7 +9,7 @@ description: Over the past year, federal agencies have been working to transitio
 topic: Policy (policy)
 sub-topic: Accessibility Law & Policy
 audience:
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Contracting Officer’s Representative (cor)
 - Information Technology Program and Project Managers (itpm)
 - Lawmakers and Policy Officials (law-policy)

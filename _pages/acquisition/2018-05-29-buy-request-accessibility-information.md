@@ -11,7 +11,7 @@ audience:
 - Contracting Officer’s Representative (cor)
 - Acquisition (acq)
 - Vendor (vendor)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 resource-type: Process/How-to
 format: HTML (html)
 ---

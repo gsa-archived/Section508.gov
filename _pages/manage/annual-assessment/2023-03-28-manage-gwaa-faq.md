@@ -10,7 +10,7 @@ audience:
 - "508 Program Manager (508pm)"
 - "Agency Head (head)"
 - "Public (public)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Lawmakers and Policy Officials (law-policy)"
 resource-type: "Long form article"
 format: "HTML (html)"

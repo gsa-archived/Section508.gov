@@ -9,7 +9,7 @@ topic: Manage (program)
 sub-topic: Reporting
 audience:
 - 508 Program Manager (508pm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Manager/Exec (exec)
 - Information Technology Program and Project Managers (itpm)
 - Lawmakers and Policy Officials (law-policy)

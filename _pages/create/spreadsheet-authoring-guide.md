@@ -9,7 +9,7 @@ sub-topic: Spreadsheets
 audience:
 - Content Creators (creator)
 - Developers and Testers (dev-test)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - 508 Program Manager (508pm)
 - Information Technology Program and Project Managers (itpm)
 resource-type: Process/How-to

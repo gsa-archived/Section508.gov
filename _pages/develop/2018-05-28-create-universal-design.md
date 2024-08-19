@@ -12,7 +12,7 @@ sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
 audience:
 - Developers and Testers (dev-test)
 - 508 Program Manager (508pm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 - Content Creators (creator)
 resource-type: Long form article

@@ -8,7 +8,7 @@ created: 1526410073
 topic: "Content creation (create)"
 sub-topic: "Spreadsheets"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 - "Designer (design)"
 resource-type: "Process/How-to"

@@ -8,7 +8,7 @@ created: December 09, 2023
 topic: Manage (program)
 sub-topic: N/A
 audience:
-- federal employee (fedemp)
+- Federal Employee (fedemp)
 - 508 Program Manager (508pm)
 - Information Technology Program and Project Managers (itpm)
 - Content Creators (creator)

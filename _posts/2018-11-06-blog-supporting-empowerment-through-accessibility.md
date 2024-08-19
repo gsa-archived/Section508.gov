@@ -9,7 +9,7 @@ description: In recognition of National Disability Employment Awareness Month (N
 topic: Events (events)
 sub-topic: N/A
 audience:
-- federal employee (fedemp)
+- Federal Employee (fedemp)
 - Manager/Exec (exec)
 - 508 Program Manager (508pm)
 - Information Technology Program and Project Managers (itpm)

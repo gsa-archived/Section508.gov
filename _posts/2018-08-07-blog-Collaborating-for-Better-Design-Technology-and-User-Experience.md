@@ -10,7 +10,7 @@ description: In February 2018, the White House released its <a href="https://www
 topic: "Design (design)"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---

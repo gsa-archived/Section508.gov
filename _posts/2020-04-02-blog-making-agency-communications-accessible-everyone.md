@@ -9,7 +9,7 @@ description: During an emergency, it is more important than usual for all people
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Product Managers (prodmgr)"

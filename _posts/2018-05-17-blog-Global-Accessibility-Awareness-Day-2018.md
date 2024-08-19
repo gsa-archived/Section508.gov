@@ -9,7 +9,7 @@ description: Global Accessibility Awareness Day, which we celebrate this year on
 topic: "Events (events)"
 sub-topic: "N/A"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"

@@ -9,7 +9,7 @@ topic: Training (train)
 sub-topic: N/A
 audience:
 - Public (public)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - 508 Program Manager (508pm)
 resource-type: Training
 format: HTML (html)

@@ -11,7 +11,7 @@ redirect_from:
 topic: "Development (dev)"
 sub-topic: "Software"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 - "Designer (design)"
 resource-type: "Process/How-to"

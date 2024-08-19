@@ -8,7 +8,7 @@ created: 1579723548
 topic: Content creation (create)
 sub-topic: Spreadsheets
 audience:
-- federal employee (fedemp)
+- Federal Employee (fedemp)
 - Developers and Testers (dev-test)
 - Content Creators (creator)
 - Designer (design)

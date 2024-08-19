@@ -13,7 +13,7 @@ sub-topic: "Accessibility Law & Policy"
 audience:
 - "Lawmakers and Policy Officials (law-policy)"
 - "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Manager/Exec (exec)"
 resource-type: "Process/How-to"
 format: "HTML (html)"

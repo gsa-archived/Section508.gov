@@ -9,7 +9,7 @@ sub-topic: PDFs
 audience:
 - Content Creators (creator)
 - Developers and Testers (dev-test)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 - 508 Program Manager (508pm)
 resource-type: Process/How-to

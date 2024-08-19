@@ -10,7 +10,7 @@ sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 - Content Creators (creator)
 resource-type: Process/How-to

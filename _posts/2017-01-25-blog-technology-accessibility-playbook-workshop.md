@@ -12,7 +12,7 @@ audience:
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Acquisition (acq)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 resource-type: Blog article (blog)
 format: HTML (html)

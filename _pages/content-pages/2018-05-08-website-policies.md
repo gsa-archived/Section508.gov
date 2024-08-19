@@ -12,7 +12,7 @@ sub-topic: General Info and Best Practices
 audience:
 - Public (public)
 - 508 Program Manager (508pm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 resource-type: Long form article
 format: HTML (html)
 ---

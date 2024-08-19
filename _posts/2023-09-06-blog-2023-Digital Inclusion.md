@@ -9,7 +9,7 @@ description: Detailed and heavily researched content article that details how pe
 topic: "Manage (program)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 resource-type: "Long form article"
 format: "HTML (html)"

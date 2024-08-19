@@ -10,7 +10,7 @@ redirect_from:
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Website Managers/Content Managers (wcm)
 - Content Creators (creator)
 - Developers and Testers (dev-test)

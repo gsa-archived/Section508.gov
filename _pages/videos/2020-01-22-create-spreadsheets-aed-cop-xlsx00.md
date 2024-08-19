@@ -10,7 +10,7 @@ redirect_from:
 topic: "Training (train)"
 sub-topic: "Spreadsheets"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Developers and Testers (dev-test)"
 - "Content Creators (creator)"

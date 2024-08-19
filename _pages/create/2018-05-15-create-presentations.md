@@ -8,7 +8,7 @@ created: 1526359269
 topic: "Content creation (create)"
 sub-topic: "Presentations"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 - "Designer (design)"
 resource-type: "Process/How-to"

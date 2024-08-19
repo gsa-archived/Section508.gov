@@ -9,7 +9,7 @@ description: In April 2018, the Department of Homeland Security announced some u
 topic: "Training (train)"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 resource-type: "Law & Policy (law-policy)"
 format: "HTML (html)"

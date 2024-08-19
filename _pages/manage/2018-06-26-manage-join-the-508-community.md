@@ -9,7 +9,7 @@ topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
 - 508 Program Manager (508pm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 - Content Creators (creator)
 - Developers and Testers (dev-test)

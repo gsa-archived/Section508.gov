@@ -11,7 +11,7 @@ sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
 audience:
 - 508 Program Manager (508pm)
 - Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Contracting Officer’s Representative (cor)
 - Lawmakers and Policy Officials (law-policy)
 resource-type: Blog article (blog)

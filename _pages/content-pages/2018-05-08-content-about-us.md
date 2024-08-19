@@ -11,7 +11,7 @@ topic: "About the program/site (about)"
 sub-topic: "N/A"
 audience:
 - "Public (public)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---

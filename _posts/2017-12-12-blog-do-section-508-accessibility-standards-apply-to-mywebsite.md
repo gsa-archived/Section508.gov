@@ -11,7 +11,7 @@ sub-topic: "Websites"
 audience:
 - "508 Program Manager (508pm)"
 - "Agency Head (head)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 - "Designer (design)"
 resource-type: "Law & Policy (law-policy)"

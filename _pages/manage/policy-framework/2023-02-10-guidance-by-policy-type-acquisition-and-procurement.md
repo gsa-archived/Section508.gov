@@ -12,7 +12,7 @@ audience:
 - "508 Program Manager (508pm)"
 - "Acquisition (acq)"
 - "Manager/Exec (exec)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
 ---

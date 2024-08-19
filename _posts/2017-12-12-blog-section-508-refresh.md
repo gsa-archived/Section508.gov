@@ -9,7 +9,7 @@ description: The Americans with Disabilities Act, the Architectural Barriers Act
 topic: Law (law)
 sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
 audience:
-- federal employee (fedemp)
+- Federal Employee (fedemp)
 - 508 Program Manager (508pm)
 - Manager/Exec (exec)
 - Information Technology Program and Project Managers (itpm)

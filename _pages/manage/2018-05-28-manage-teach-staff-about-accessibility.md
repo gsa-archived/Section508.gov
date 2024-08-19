@@ -9,7 +9,7 @@ topic: Manage (program)
 sub-topic: Other Accessibility Training or Tools
 audience:
 - 508 Program Manager (508pm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Content Creators (creator)
 - Information Technology Program and Project Managers (itpm)
 - Manager/Exec (exec)

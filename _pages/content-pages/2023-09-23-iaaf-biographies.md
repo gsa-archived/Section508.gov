@@ -9,7 +9,7 @@ created: 2023-09-23
 topic: "Events (events)"
 sub-topic: "N/A"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"

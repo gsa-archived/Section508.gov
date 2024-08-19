@@ -8,7 +8,7 @@ created: 1537561274
 topic: "Events (events)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Content Creators (creator)"
 - "Developers and Testers (dev-test)"

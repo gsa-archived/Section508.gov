@@ -13,7 +13,7 @@ audience:
 - Agency Head (head)
 - Public (public)
 - Lawmakers and Policy Officials (law-policy)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 resource-type: Blog article (blog)
 format: HTML (html)
 ---

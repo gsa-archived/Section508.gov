@@ -13,7 +13,7 @@ redirect_from:
 topic: "Law (law)"
 sub-topic: "Accessibility Law & Policy"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Chief Information Officer (cio)"
 - "Information Technology Program and Project Managers (itpm)"

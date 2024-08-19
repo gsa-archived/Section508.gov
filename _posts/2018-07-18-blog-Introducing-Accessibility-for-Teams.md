@@ -13,7 +13,7 @@ audience:
 - "Developers and Testers (dev-test)"
 - "508 Program Manager (508pm)"
 - "Content Creators (creator)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Information Technology Program and Project Managers (itpm)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"

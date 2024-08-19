@@ -9,7 +9,7 @@ description: The GSA Government-wide IT Accessibility Program publishes guidance
 topic: "Content creation (create)"
 sub-topic: "General Info and Best Practices"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Product Managers (prodmgr)"

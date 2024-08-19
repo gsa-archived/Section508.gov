@@ -8,7 +8,7 @@ created: April 5, 2022
 topic: Manage (program)
 sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
 audience:
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 - 508 Program Manager (508pm)
 - Content Creators (creator)

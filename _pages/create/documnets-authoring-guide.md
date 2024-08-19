@@ -9,7 +9,7 @@ sub-topic: "Documents"
 audience:
 - "Content Creators (creator)"
 - "Designer (design)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 - "Designer (design)"
 resource-type: "Process/How-to"

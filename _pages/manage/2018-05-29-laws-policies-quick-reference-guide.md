@@ -8,7 +8,7 @@ created: 1527608498
 topic: "Law (law)"
 sub-topic: "Accessibility Law & Policy"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Lawmakers and Policy Officials (law-policy)"
 - "Chief Information Officer (cio)"

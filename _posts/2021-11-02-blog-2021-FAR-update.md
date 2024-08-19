@@ -9,7 +9,7 @@ description: On January 18, 2017, the U.S. Access Board issued a final rule (the
 topic: "Policy (policy)"
 sub-topic: "Accessibility Law & Policy"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"

@@ -14,7 +14,7 @@ audience:
 - Chief Information Officer (cio)
 - Chief Acquisition Officer (cao)
 - Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 resource-type: Playbook
 format: HTML (html)
 ---

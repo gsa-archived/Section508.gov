@@ -9,7 +9,7 @@ description: You've likely heard the terms "compliance" and "conformance" when p
 topic: "Policy (policy)"
 sub-topic: "General Info and Best Practices"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"

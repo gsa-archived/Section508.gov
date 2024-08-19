@@ -13,7 +13,7 @@ audience:
 - Chief Information Officer (cio)
 - 508 Program Manager (508pm)
 - Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Developers and Testers (dev-test)
 resource-type: Playbook
 format: HTML (html)

@@ -11,7 +11,7 @@ audience:
 - Acquisition (acq)
 - Contracting Officer’s Representative (cor)
 - 508 Program Manager (508pm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 resource-type: Process/How-to
 format: HTML (html)

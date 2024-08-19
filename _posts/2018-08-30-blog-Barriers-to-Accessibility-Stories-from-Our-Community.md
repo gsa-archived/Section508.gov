@@ -12,7 +12,7 @@ audience:
 - "Public (public)"
 - "Chief Diversity and Inclusion Officer (cdio)"
 - "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---

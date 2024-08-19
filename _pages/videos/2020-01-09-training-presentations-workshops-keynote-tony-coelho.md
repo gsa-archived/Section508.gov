@@ -8,7 +8,7 @@ created: 1578606586
 topic: "Events (events)"
 sub-topic: "General Info and Best Practices"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"

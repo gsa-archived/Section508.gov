@@ -7,7 +7,7 @@ title: 'IAAF 2021 Keynote Address—Panel Discussion'
 topic: "Events (events)"
 sub-topic: "General Info and Best Practices"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 - "Content Creators (creator)"

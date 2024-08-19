@@ -9,7 +9,7 @@ redirect_to: https://www.section508.gov
 topic: "About the program/site (about)"
 sub-topic: "N/A"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 - "508 Program Manager (508pm)"
 resource-type: "Long form article"

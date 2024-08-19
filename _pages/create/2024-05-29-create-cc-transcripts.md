@@ -11,7 +11,7 @@ updated:
 topic: "Content creation (create)"
 sub-topic: "Video/Audio/Multimedia"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Public (public)"
 - "Designer (design)"
 resource-type: "Process/How-to"

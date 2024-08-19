@@ -12,7 +12,7 @@ audience:
 - 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
 - Information Technology Program and Project Managers (itpm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Chief Information Officer (cio)
 resource-type: Long form article
 format: HTML (html)

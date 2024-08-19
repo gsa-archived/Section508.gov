@@ -10,7 +10,7 @@ sub-topic: "Manage IT Program Training (PM and Executives) Tools"
 audience:
 - "Lawmakers and Policy Officials (law-policy)"
 - "508 Program Manager (508pm)"
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "Product Managers (prodmgr)"
 - "Manager/Exec (exec)"
 resource-type: "Law & Policy (law-policy)"

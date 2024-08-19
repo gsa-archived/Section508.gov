@@ -10,7 +10,7 @@ redirect_from:
 topic: Training (train)
 sub-topic: Spreadsheets
 audience:
-- federal employee (fedemp)
+- Federal Employee (fedemp)
 - Content Creators (creator)
 - Website Managers/Content Managers (wcm)
 - Public (public)

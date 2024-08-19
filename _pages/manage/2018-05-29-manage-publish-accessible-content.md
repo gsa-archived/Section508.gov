@@ -10,7 +10,7 @@ sub-topic: Manage a 508 Program
 audience:
 - 508 Program Manager (508pm)
 - Website Managers/Content Managers (wcm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 resource-type: Process/How-to
 format: HTML (html)

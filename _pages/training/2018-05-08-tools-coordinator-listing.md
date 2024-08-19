@@ -13,7 +13,7 @@ redirect_from:
 topic: "Training (train)"
 sub-topic: "Manage a 508 Program"
 audience:
-- "Federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Public (public)"
 resource-type: "Training"

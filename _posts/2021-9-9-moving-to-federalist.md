@@ -13,7 +13,7 @@ audience:
 - 508 Program Manager (508pm)
 - Information Technology Program and Project Managers (itpm)
 - Website Managers/Content Managers (wcm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 resource-type: Blog article (blog)
 format: HTML (html)
 ---

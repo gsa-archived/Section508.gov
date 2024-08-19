@@ -10,7 +10,7 @@ sub-topic: Accessibility Law & Policy
 audience:
 - Lawmakers and Policy Officials (law-policy)
 - 508 Program Manager (508pm)
-- Federal employee (fedemp)
+- Federal Employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 - Manager/Exec (exec)
 resource-type: Long form article

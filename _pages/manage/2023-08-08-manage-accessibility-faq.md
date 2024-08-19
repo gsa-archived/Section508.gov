@@ -7,7 +7,7 @@ title: "ICT Accessibility Frequently Asked Questions"
 topic: "Manage (program)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:
-- "federal employee (fedemp)"
+- "Federal Employee (fedemp)"
 - "508 Program Manager (508pm)"
 - "Website Managers/Content Managers (wcm)"
 - "Information Technology Program and Project Managers (itpm)"
